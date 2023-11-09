@@ -1,0 +1,9 @@
+[submodule "prismlauncher"]
+	path = prismlauncher
+	url = https://mpr.makedeb.org/prismlauncher.git
+[submodule "prismlauncher-git"]
+	path = prismlauncher-git
+	url = https://mpr.makedeb.org/prismlauncher-git.git
+[submodule "prismlauncher-bin"]
+	path = prismlauncher-bin
+	url = https://mpr.makedeb.org/prismlauncher-bin.git
