@@ -21,6 +21,8 @@
 
 ![Prism Launcher for Ubuntu](img/prismlauncher-for-ubuntu.png)
 
+|Distro|Architecture|Link|
+|-|-|-|
 | Ubuntu 23.10 (kinetic) | amd64 | [ubuntu-23.10_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_amd64_prismlauncher_8.0-1.deb) |
 | Ubuntu 23.10 (kinetic) | arm64 | [ubuntu-23.10_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_arm64_prismlauncher_8.0-1.deb) |
 | Ubuntu 23.10 (kinetic) | armhf | [ubuntu-23.10_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_armhf_prismlauncher_8.0-1.deb) |
