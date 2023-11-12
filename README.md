@@ -32,6 +32,6 @@
 | Ubuntu 22.04 (jammy) | amd64 | [ubuntu-22.04_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-22.04_amd64_prismlauncher_8.0-1.deb) |
 | Ubuntu 22.04 (jammy) | arm64 | [ubuntu-22.04_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-22.04_arm64_prismlauncher_8.0-1.deb) |
 | Ubuntu 22.04 (jammy) | armhf | [ubuntu-22.04_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-22.04_armhf_prismlauncher_8.0-1.deb) |
-| Ubuntu 20.04 (jammy) | amd64 | [ubuntu-20.04_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_amd64_prismlauncher_8.0-1.deb) |
-| Ubuntu 20.04 (jammy) | arm64 | [ubuntu-20.04_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_arm64_prismlauncher_8.0-1.deb) |
-| Ubuntu 20.04 (jammy) | armhf | [ubuntu-20.04_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_armhf_prismlauncher_8.0-1.deb) |
+| Ubuntu 20.04 (focal) | amd64 | [ubuntu-20.04_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_amd64_prismlauncher_8.0-1.deb) |
+| Ubuntu 20.04 (focal) | arm64 | [ubuntu-20.04_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_arm64_prismlauncher_8.0-1.deb) |
+| Ubuntu 20.04 (focal) | armhf | [ubuntu-20.04_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-20.04_armhf_prismlauncher_8.0-1.deb) |
