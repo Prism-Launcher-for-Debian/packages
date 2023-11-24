@@ -23,9 +23,9 @@
 
 |Distro|Architecture|Link|
 |-|-|-|
-| Ubuntu 23.10 (kinetic) | amd64 | [ubuntu-23.10_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_amd64_prismlauncher_8.0-1.deb) |
-| Ubuntu 23.10 (kinetic) | arm64 | [ubuntu-23.10_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_arm64_prismlauncher_8.0-1.deb) |
-| Ubuntu 23.10 (kinetic) | armhf | [ubuntu-23.10_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_armhf_prismlauncher_8.0-1.deb) |
+| Ubuntu 23.10 (mantic) | amd64 | [ubuntu-23.10_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_amd64_prismlauncher_8.0-1.deb) |
+| Ubuntu 23.10 (mantic) | arm64 | [ubuntu-23.10_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_arm64_prismlauncher_8.0-1.deb) |
+| Ubuntu 23.10 (mantic) | armhf | [ubuntu-23.10_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.10_armhf_prismlauncher_8.0-1.deb) |
 | Ubuntu 23.04 (lunar) | amd64 | [ubuntu-23.04_amd64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.04_amd64_prismlauncher_8.0-1.deb) |
 | Ubuntu 23.04 (lunar) | arm64 | [ubuntu-23.04_arm64_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.04_arm64_prismlauncher_8.0-1.deb) |
 | Ubuntu 23.04 (lunar) | armhf | [ubuntu-23.04_armhf_prismlauncher_8.0-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/releases/download/8.0-1/ubuntu-23.04_armhf_prismlauncher_8.0-1.deb) |
