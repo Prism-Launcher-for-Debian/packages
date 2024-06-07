@@ -2,6 +2,17 @@
 
 ## This is for folks who want to run PrismLauncher on unusual architectures. Use prebuilt-mpr instead if you are on x86-64 or ARM64, or build manually from MPR!
 
+
+### 8.3
+
+![Prism Launcher for Debian](img/prismlauncher-for-debian.png)
+
+|Distro|Architecture|Link|
+|-|-|-|
+| Debian sid | i386 | [debian-sid_i386_prismlauncher_8.3-1.deb](https://github.com/Prism-Launcher-for-Debian/packages/raw/main/builds/debian-sid_i386_prismlauncher_8.3-1.deb) |
+
+### 8.0
+
 ![Prism Launcher for Debian](img/prismlauncher-for-debian.png)
 
 |Distro|Architecture|Link|
