@@ -1,5 +1,6 @@
-
 # PrismLauncher packages for Debian and Ubuntu
+
+## This is for folks who want to run PrismLauncher on unusual architectures. Use prebuilt-mpr or build the MPR package manually instead if you are on x86-64 or ARM64!
 
 ![Prism Launcher for Debian](img/prismlauncher-for-debian.png)
 
